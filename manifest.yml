@@ -1,4 +1,5 @@
 applications:
 - name: simplehttpserver
   memory: 50M
-  buildpack: python
+  buildpack: https://github.com/cloudfoundry/python-buildpack
+  stack: cflinuxfs2
