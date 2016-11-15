@@ -1,6 +1,0 @@
-app-dir: /Users/jaraco/Dropbox/code/yg/public/stackato-stack-test
-buildpack: https://github.com/cloudfoundry/python-buildpack.git
-disk_quota: 2048
-memory: 256
-name: stackato-stack-test
-stack: cflinuxfs2

@@ -1,0 +1,4 @@
+applications:
+- name: simplehttpserver
+  memory: 50M
+  buildpack: python
