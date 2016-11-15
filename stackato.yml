@@ -4,3 +4,5 @@ disk_quota: 2048
 memory: 256
 name: stackato-stack-test
 stack: cflinuxfs2
+env:
+  PIP_NO_BINARY: lxml
